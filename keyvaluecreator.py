@@ -21,6 +21,7 @@ for i in lst:
     dct[val[0]] = val[1]
     print(dct)
     crptos_dict.append(dct)
-    print("done!")
+    
+
     
     
