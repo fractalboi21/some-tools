@@ -4,11 +4,8 @@
 - https://extendsclass.com/
 </details>
 
-<details><summary>css tools</summary>
-<p>
-- https://cssgrid-generator.netlify.app/ </br>
-</p>
-</details>
+- [css grid generators](https://cssgrid-generator.netlify.app/)
+- [The ultimate tools for web development](https://webcode.tools/)
 
 <details><summary>regex</summary>
 <p>
