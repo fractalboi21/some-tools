@@ -15,5 +15,6 @@
 </p>
 </details>
 
+[Text Analyzer](https://www.online-utility.org/text/analyzer.jsp)
 
 
