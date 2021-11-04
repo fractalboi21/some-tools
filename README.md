@@ -18,3 +18,8 @@
 [Text Analyzer](https://www.online-utility.org/text/analyzer.jsp)
 
 
+# text to speech related
+
+ - https://ttsmp3.com/
+ - https://freetts.com/
+ - https://voicemaker.in/
