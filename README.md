@@ -27,3 +27,4 @@
 # Html buliders
 - https://beautifytools.com/html-form-builder.php
 - https://webcode.tools/generators/html/progress
+- https://www.mefancy.com/html/formtag.php
