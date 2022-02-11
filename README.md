@@ -31,6 +31,7 @@
 
 # Paste sites
 - https://rentry.co/hc9no
+- https://jsbin.com/?html,output
 
 # realtime collaberation tool
 - http://meetingwords.com/
